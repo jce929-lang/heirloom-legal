@@ -6,7 +6,7 @@ Heirloom ("we," "our," or "the app") helps families preserve stories from the pe
 
 ## 1. Who we are
 
-Heirloom is operated by Jackson Estes ("Heirloom"). If you have questions about this policy or your data, contact us at **privacy@heirloomapp.com**.
+Heirloom is operated by Jackson Estes ("Heirloom"). If you have questions about this policy or your data, contact us at **privacy@getheirloomapp.com**.
 
 ## 2. Information we collect
 
@@ -59,7 +59,7 @@ You can revoke any permission at any time in iOS Settings → Heirloom.
 
 - Your data stays in Heirloom until you delete it.
 - **Deleting a profile, prompt, or response** in the app removes it from our servers immediately.
-- **Deleting your account** — email us at privacy@heirloomapp.com with the anonymous user ID shown in Settings → About. We will permanently delete your data within 30 days.
+- **Deleting your account** — email us at privacy@getheirloomapp.com with the anonymous user ID shown in Settings → About. We will permanently delete your data within 30 days.
 - Analytics and crash logs are retained by Firebase for up to 26 months and are not tied to your anonymous user ID in a way that would let us link them back to you.
 
 ## 7. Children's privacy
@@ -73,7 +73,7 @@ Heirloom is not directed to children under 13. We do not knowingly collect data 
 - Access is controlled by per-user security rules enforced at the database and storage layer.
 - We use anonymous authentication by default — there is no password for an attacker to steal.
 
-No system is perfectly secure. If you suspect a breach, email security@heirloomapp.com.
+No system is perfectly secure. If you suspect a breach, email security@getheirloomapp.com.
 
 ## 9. Your rights
 
@@ -96,8 +96,8 @@ We may update this policy as the app evolves. Material changes will be announced
 
 ## 12. Contact
 
-**Email:** privacy@heirloomapp.com
-**Mailing address:** _(add before launch)_
+**Email:** privacy@getheirloomapp.com
+**Mailing address:** 2140 S Carroll Rd, Indianapolis, IN 46239
 
 ---
 
