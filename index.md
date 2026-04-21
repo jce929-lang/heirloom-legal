@@ -1,5 +1,7 @@
 # Heirloom Privacy Policy
 
+[Privacy Policy](/heirloom-legal/) · [Terms of Service](/heirloom-legal/terms)
+
 _Last updated: April 21, 2026_
 
 Heirloom ("we," "our," or "the app") helps families preserve stories from the people they love. We take privacy seriously because the memories you record in Heirloom are personal and irreplaceable. This policy explains what we collect, how we use it, and the choices you have.
